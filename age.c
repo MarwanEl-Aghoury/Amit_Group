@@ -4,6 +4,7 @@ int main()
 {
 	
 	printf("Welcome welcome");
-	printf("We we we we ");
+	
+	printf("wii");
 	return 0;
 }
